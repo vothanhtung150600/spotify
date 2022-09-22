@@ -1,137 +1,115 @@
 {
-    "start":{
-        "list":[
-            {
-                "id" : "37i9dQZF1EIWBcua8Udpvz",
-                "label" : "Bình Gold,Wxrdie,Changg và nhiều hơn nữa",
-                "name" : "Danh sách nhạc kết hợp của QNT Mix",
-                "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/4LuFOXq87Tg0JSl5U7yxFZ/vi/large"
-            },
-            {
-                "id" : "37i9dQZF1EIVxOHBJEPPbR",
-                "label" : "Wxrdie,QNT,16 Typh và nhiều hơn nữa",
-                "name" : "Danh sách nhạc kết hợp của Obito Mix",
-                "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/0ZbgKh0FgPYeFP38nVaEGp/vi/large"
-            },
-            {
-                "id" : "37i9dQZF1EIYnnic4MII1n",
-                "label" : "QNT,Wxrdie,Lil Wuyn và nhiều hơn nữa",
-                "name" : "Danh sách nhạc kết hợp của HIEUTHUHAI Mix",
-                "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/5HZtdKfC4xU0wvhEyYDWiY/vi/large"
-            },
-            {
-                "id" : "37i9dQZF1EIUwhqEjzygYj",
-                "label" : "QNT,Wxrdie,HIEUTHUHAI và nhiều hơn nữa",
-                "name" : "Danh sách nhạc kết hợp của 95G Mix",
-                "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/7zrxCdVQeT3t5LAN3Jpavs/vi/large"
-            },
-            {
-                "id" : "37i9dQZF1EIYS1LmoGwErP",
-                "label" : "QNT,Rhymastic,AMEE và nhiều hơn nữa",
-                "name" : "Danh sách nhạc kết hợp của Chillies Mix",
-                "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/2xvW7dgL1640K8exTcRMS4/vi/large"
-            }
-        ]
-    },
-    "recoment":{
-        "list":[
-            {
-                "id" : "0tnHadwaVCpIhUko2lm1Qt",
-                "label" : "Osad",
-                "name" : "Yêu Sắc Yếu",
-                "images": "https://i.scdn.co/image/ab67616d0000b273df69f9f25936875207a6a8dd"
-            },
-            {
-                "id" : "2Ro0unf9MBJGvcLLfo7liZ",
-                "label" : "WM Vietnam",
-                "name" : "2AM",
-                "images": "https://i.scdn.co/image/ab67616d0000b2730b97a73cab024885e9819a9e"
-            },
-            {
-                "id" : "2Q4OkyBdAr8dBlhPSMDbBw",
-                "label" : "LOOPS Music",
-                "name" : "Querry",
-                "images": "https://i.scdn.co/image/ab67616d0000b27329920f5d50112ec6f72efe39"
-            },
-            {
-                "id" : "1TAJ1v7uOXi6lzXQSF3wjn",
-                "label" : "Universal Music Indochina Distributed Labels",
-                "name" : "Em Không Hiểu",
-                "images": "https://i.scdn.co/image/ab67616d0000b2732882dbcd6195d4f0ef4b2cd4"
-            },
-            {
-                "id" : "7nvdYW7qe9f1DT7pZ1EXDg",
-                "label": "NGUYEN CHI PHONG",
-                "name": "Có em",
-                "images": "https://i.scdn.co/image/ab67616d0000b273556e7b75fb148c696f99a709"
-            }
-        ]
-    },
-    "artists":{
-        "list":[
-            {
-                "id" : "5dfZ5uSmzR7VQK0udbAVpf",
-                "name" : "Sơn Tùng M-TP",
-                "images": "https://i.scdn.co/image/ab6761610000e5eb1036554ddc5f791a4f5dcfc3"
-            },
-            {
-                "id" : "3KJopZ2uUclqEtLxQg0FNn",
-                "name" : "Jack - J97",
-                "images": "https://i.scdn.co/image/ab6761610000e5ebcb0574792157d524c3e56705"
-            },
-            {
-                "id" : "4RGBKkUyyvsim9vdBKCCkc",
-                "name" : "Ngơ",
-                "images": "https://i.scdn.co/image/ab6761610000e5eb6994e627c5b26909bc8ba813"
-            },
-            {
-                "id" : "1LEtM3AleYg1xabW6CRkpi",
-                "name" : "Đen",
-                "images": "https://i.scdn.co/image/ab6761610000e5eb737b3f8838b053cff8c2c75e"
-            },
-            {
-                "id" : "1L1VfizWn4DkFt602yD80U",
-                "name" : "ERIK",
-                "images": "https://i.scdn.co/image/ab6761610000e5eb63ba7b9441e542f3b2938b83"
-            }
-        ]
-    },
-    "relax":{
-        "list":[
-            {
-                "id" : "37i9dQZF1DX889U0CL85jj",
-                "label" : "Just chill.",
-                "name" : "Chill Vibes",
-                "images": "https://i.scdn.co/image/ab67706f00000003f2d08778548e125bcb867692"
-            },
-            {
-                "id" : "37i9dQZF1DX1e2VSJFudND",
-                "label" : "Một mình trong quán vắng, khúc nhạc quen và cảm giác lạ.",
-                "name" : "Cà Phê Quán Quen",
-                "images": "https://i.scdn.co/image/ab67706f0000000315d57f6619c73d186d2b7bf3"
-            },
-            {
-                "id" : "37i9dQZF1DX4WYpdgoIcn6",
-                "label" : "Thư giãn bằng những ca khúc đình đám nhẹ nhàng hay nhất và mới ra mắt.",
-                "name" : "Những bản hit thư giãn",
-                "images": "https://i.scdn.co/image/ab67706f00000003ab28cfe20608547a700bafe8"
-            },
-            {
-                "id" : "37i9dQZF1DWVqfgj8NZEp1",
-                "label" : "Relax to the sound of gentle instrumental Jazz.",
-                "name" : "Coffee Table Jazz",
-                "images": "https://i.scdn.co/image/ab67706f000000033e7580e54c5e6672d564f170"
-            },
-            {
-                "id" : "37i9dQZF1DWTwnEm1IYyoj",
-                "label" : "Listen to easy songs from your favorite artists! Cover: Lady Gaga",
-                "name" : "Soft Pop Hits",
-                "images": "https://i.scdn.co/image/ab67706f00000003c4e0a29097d2f0f52baf8b68"
-            }
-        ]
-    },
-    "things":{
-        "list":[
+        "type":"playlist",
+        "genre" : [
+        {
+            "title" : "Để bạn bắt đầu",
+            "items":[
+                {
+
+                    "id" : "37i9dQZF1EIWBcua8Udpvz",
+                    "label" : "Bình Gold,Wxrdie,Changg và nhiều hơn nữa",
+                    "name" : "Danh sách nhạc kết hợp của QNT Mix",
+                    "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/4LuFOXq87Tg0JSl5U7yxFZ/vi/large"
+                },
+                {
+                    "id" : "37i9dQZF1EIVxOHBJEPPbR",
+                    "label" : "Wxrdie,QNT,16 Typh và nhiều hơn nữa",
+                    "name" : "Danh sách nhạc kết hợp của Obito Mix",
+                    "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/0ZbgKh0FgPYeFP38nVaEGp/vi/large"
+                },
+                {
+                    "id" : "37i9dQZF1EIYnnic4MII1n",
+                    "label" : "QNT,Wxrdie,Lil Wuyn và nhiều hơn nữa",
+                    "name" : "Danh sách nhạc kết hợp của HIEUTHUHAI Mix",
+                    "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/5HZtdKfC4xU0wvhEyYDWiY/vi/large"
+                },
+                {
+                    "id" : "37i9dQZF1EIUwhqEjzygYj",
+                    "label" : "QNT,Wxrdie,HIEUTHUHAI và nhiều hơn nữa",
+                    "name" : "Danh sách nhạc kết hợp của 95G Mix",
+                    "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/7zrxCdVQeT3t5LAN3Jpavs/vi/large"
+                },
+                {
+                    "id" : "37i9dQZF1EIYS1LmoGwErP",
+                    "label" : "QNT,Rhymastic,AMEE và nhiều hơn nữa",
+                    "name" : "Danh sách nhạc kết hợp của Chillies Mix",
+                    "images": "https://seed-mix-image.spotifycdn.com/v6/img/artist/2xvW7dgL1640K8exTcRMS4/vi/large"
+                }
+            ]
+        },
+        {
+            "title" : "Đề xuất",
+            "items":[
+                {
+                    "id" : "0tnHadwaVCpIhUko2lm1Qt",
+                    "label" : "Osad",
+                    "name" : "Yêu Sắc Yếu",
+                    "images": "https://i.scdn.co/image/ab67616d0000b273df69f9f25936875207a6a8dd"
+                },
+                {
+                    "id" : "2Ro0unf9MBJGvcLLfo7liZ",
+                    "label" : "WM Vietnam",
+                    "name" : "2AM",
+                    "images": "https://i.scdn.co/image/ab67616d0000b2730b97a73cab024885e9819a9e"
+                },
+                {
+                    "id" : "2Q4OkyBdAr8dBlhPSMDbBw",
+                    "label" : "LOOPS Music",
+                    "name" : "Querry",
+                    "images": "https://i.scdn.co/image/ab67616d0000b27329920f5d50112ec6f72efe39"
+                },
+                {
+                    "id" : "1TAJ1v7uOXi6lzXQSF3wjn",
+                    "label" : "Universal Music Indochina Distributed Labels",
+                    "name" : "Em Không Hiểu",
+                    "images": "https://i.scdn.co/image/ab67616d0000b2732882dbcd6195d4f0ef4b2cd4"
+                },
+                {
+                    "id" : "7nvdYW7qe9f1DT7pZ1EXDg",
+                    "label": "NGUYEN CHI PHONG",
+                    "name": "Có em",
+                    "images": "https://i.scdn.co/image/ab67616d0000b273556e7b75fb148c696f99a709"
+                }
+            ]
+        },
+        {
+            "title" : "Thư giãn",
+            "item":[
+                {
+                    "id" : "37i9dQZF1DX889U0CL85jj",
+                    "label" : "Just chill.",
+                    "name" : "Chill Vibes",
+                    "images": "https://i.scdn.co/image/ab67706f00000003f2d08778548e125bcb867692"
+                },
+                {
+                    "id" : "37i9dQZF1DX1e2VSJFudND",
+                    "label" : "Một mình trong quán vắng, khúc nhạc quen và cảm giác lạ.",
+                    "name" : "Cà Phê Quán Quen",
+                    "images": "https://i.scdn.co/image/ab67706f0000000315d57f6619c73d186d2b7bf3"
+                },
+                {
+                    "id" : "37i9dQZF1DX4WYpdgoIcn6",
+                    "label" : "Thư giãn bằng những ca khúc đình đám nhẹ nhàng hay nhất và mới ra mắt.",
+                    "name" : "Những bản hit thư giãn",
+                    "images": "https://i.scdn.co/image/ab67706f00000003ab28cfe20608547a700bafe8"
+                },
+                {
+                    "id" : "37i9dQZF1DWVqfgj8NZEp1",
+                    "label" : "Relax to the sound of gentle instrumental Jazz.",
+                    "name" : "Coffee Table Jazz",
+                    "images": "https://i.scdn.co/image/ab67706f000000033e7580e54c5e6672d564f170"
+                },
+                {
+                    "id" : "37i9dQZF1DWTwnEm1IYyoj",
+                    "label" : "Listen to easy songs from your favorite artists! Cover: Lady Gaga",
+                    "name" : "Soft Pop Hits",
+                    "images": "https://i.scdn.co/image/ab67706f00000003c4e0a29097d2f0f52baf8b68"
+                }
+            ]
+        },
+    {
+        "title" : "Tâm trạng",
+        "item":[
             {
                 "id" : "37i9dQZF1DWWQRwui0ExPn",
                 "label" : "The chillest beats to help you relax, study, code, and focus.",
@@ -164,4 +142,5 @@
             }
         ]
     }
+]
 }
