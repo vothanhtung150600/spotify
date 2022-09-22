@@ -74,7 +74,7 @@
         },
         {
             "title" : "Thư giãn",
-            "item":[
+            "items":[
                 {
                     "id" : "37i9dQZF1DX889U0CL85jj",
                     "label" : "Just chill.",
@@ -109,7 +109,7 @@
         },
     {
         "title" : "Tâm trạng",
-        "item":[
+        "items":[
             {
                 "id" : "37i9dQZF1DWWQRwui0ExPn",
                 "label" : "The chillest beats to help you relax, study, code, and focus.",
